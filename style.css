@@ -1,0 +1,30 @@
+/* h1 {
+    color: brown;
+} */
+
+h2 {
+    color: yellow;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+.box-titulos {
+    background-color: aqua;
+    border: 2px solid;
+}
+
+.titulo-principal {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.titulo-destaque {
+    color: blue;
+}
+
+#titulo-secundario {
+    font-size: 2.3rem;
+    color: blueviolet;
+}
